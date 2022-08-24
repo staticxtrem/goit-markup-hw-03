@@ -1,0 +1,177 @@
+.containertop {
+    width: 1200px;
+    height: 80px;
+    background: white
+    }
+    .webestudio {
+    position: absolute;
+    width: 145px;
+    height: 31px;
+    left: 155px;
+    top: 24px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    text-align: right;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+    }
+    .estudio {
+    position: absolute;
+    width: 49px;
+    height: 16px;
+    left: 400px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+    }
+    .portafolio {
+    position: absolute;
+    width: 65px;
+    height: 16px;
+    left: 500px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    }
+    .contactos{
+    position: absolute;
+    width: 67px;
+    height: 16px;
+    left: 600px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #212121;
+    }
+    .infodevstudio {
+    position: absolute;
+    width: 135px;
+    height: 16px;
+    left: 900px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #2196F3;
+    }
+    .tel {
+    position: absolute;
+    width: 118px;
+    height: 16px;
+    left: 1050px;
+    top: 32px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #757575;
+    }
+    .container-cards{
+        display: flex;
+        flex-wrap: wrap;
+        width: 1000px;
+    }
+    .card{
+        width: 300px;
+        border-radius: 8px;
+        box-shadow: 0 2px 2px rgba(0,0,0,0.2);
+        text-align: center;
+        float: left;
+        display:flex;
+        flex-wrap: wrap;
+        gap: -5px;
+        }
+        .containerbotton3 {
+            position: absolute;
+            width: 1200px;
+            height: 200px;
+            left: 0px;
+            top: 1200px;
+            background: #2F303A;
+            }
+            .textfooter{
+            position: absolute;
+            display: flex;
+            width: 231px;
+            height: 21px;
+            left: 180px;
+            top: 50px;
+            bottom: 100px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            letter-spacing: 0.03em;
+            color: #FFFFFF;
+            
+            }
+            .textfooter1{
+              position: absolute;
+              display: flex;
+              width: 231px;
+              height: 21px;
+              left: 180px;
+              top: 70px;
+              bottom: 100px;
+              font-family: 'Roboto';
+              font-style: normal;
+              font-weight: 400;
+              font-size: 14px;
+              line-height: 24px;
+              letter-spacing: 0.03em;
+              color: #FFFFFF;
+            }
+            .textfooter2 {
+            position: absolute;
+            display:flex;
+            width: 231px;
+            height: 21px;
+            left: 180px;
+            top: 110px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            letter-spacing: 0.03em;
+            color: rgba(255, 255, 255, 0.6);
+            }
+            .textfooter3 {
+            position: absolute;
+            display:flex;
+            width: 231px;
+            height: 21px;
+            left: 180px;
+            top: 130px;
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 24px;
+            letter-spacing: 0.03em;
+            color: rgba(255, 255, 255, 0.6);
+            }
+            
