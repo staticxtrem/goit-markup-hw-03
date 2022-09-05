@@ -180,6 +180,7 @@ width: 300px;
   flex-direction: row;
   text-align: center;
   color: #212121;  
+  background-color: #F5F4FA;
 }
 .container-botton {
 width: 1200px;
@@ -187,6 +188,7 @@ display: flex;
 flex-wrap: wrap;
 justify-content: center;
 gap: 30px;
+background-color: #F5F4FA;
 }
 .card{
 width: 200px;
@@ -196,6 +198,8 @@ box-shadow: 0 2px 2px rgba(0,0,0,0.2);
 text-align: center;
 display:flex;
 flex-wrap: wrap;
+margin-left: auto;
+margin-right: auto;
 }
 .container-footer {
 width: 1200px;
